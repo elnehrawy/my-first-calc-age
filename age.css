@@ -32,7 +32,7 @@ legend
 {
     font-family: fantasy;
     
-    font-size: 4vw;
+    font-size: 7vw;
     background-color: #0f22e852;
     border-style: ridge;
     border-width: 3vw;
@@ -93,12 +93,13 @@ input
 
 button
 {
-    padding: 1vw;
+    padding: 2vw;
     font-family: unset;
     font-style: italic;
     font-size: 4vw;
-    margin: 1vw;
-    width: 100%;
+    margin 1vw;
+    
+    width: 50%;
     background-color: darkslategrey;
     border-width: 5vw;
     border-radius: 10vw;
@@ -108,7 +109,7 @@ button
 
 .child2
 {
-   font-family: fantasy;
+    font-family: fantasy;
     font-style: oblique;
     font-size: 2vw;
     border: 2vw solid #b71616;
